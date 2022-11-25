@@ -1,0 +1,28 @@
+div#Projects{
+	position: fixed;
+	left: 100px;
+	top: 70px;
+	font-weight: normal;
+	font-size: 20px;
+	font-family: Arial;
+}
+
+div.horizontalgap {
+  overflow: hidden;
+  height: 1px;
+  width: 0px;
+}
+
+label {
+   white-space: pre;
+}
+
+div#contactData
+{
+	position: fixed;
+	left: 100px;
+	top: 70px;
+	font-weight: normal;
+	font-size: 20px;
+	font-family: Arial;
+}

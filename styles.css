@@ -1,0 +1,67 @@
+body {
+	background-color : black;
+	color: white;
+}
+
+th.clicable{
+	width: 80px;
+	color: white;
+	font-family: Arial;
+}
+
+th:hover{
+	color: orange;
+}
+
+h1.medium {
+	font-weight: normal;
+	font-size: 20px;
+	font-family: Arial;
+}
+
+h1.bold {
+	
+	font-weight: bold;
+	font-family: Arial;
+}
+
+h2.small {
+	font-weight: normal;
+	font-size: 15px;
+	font-family: Arial;
+}
+
+div#introduction{
+	position: fixed;
+	left: 100px;
+	top: 100px;
+	font-weight: normal;
+	font-size: 20px;
+	font-family: Arial;
+}
+
+h2.orangeLink {
+	font-weight: normal;
+	font-size: 15px;
+	font-family: Arial;
+	color: orange;
+}
+
+a{
+	color: orange;
+}
+
+div#myWork{
+	position: fixed;
+	left: 100px;
+	bottom: 50px;
+	font-weight: normal;
+	font-size: 20px;
+	font-family: Arial;
+}
+
+div#myImage {
+	position: fixed;
+	left: 800px;
+	top: 70px;
+}
