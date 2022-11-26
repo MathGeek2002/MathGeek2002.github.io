@@ -63,7 +63,7 @@ div#myWork{
 }
 
 img#myImage {
-	position: fixed;
+	position: absolute;
 	left: 55%;
 	top: 10%;
 }

@@ -35,8 +35,7 @@ h1#GameTitle{
 }
 
 div.Images {
-	position: relative;
-	left: 70%;
-	top: 0%;
+	position: absolute;
+	left: 75%;
 	width: 100%;
 }
